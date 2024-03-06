@@ -1,0 +1,290 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/appleskin.json5"
+hash = "ae87f2d1b38dfd4b1e0767dfeb539261deaaf4fd2eb73692afcbaac7147855b9"
+
+[[files]]
+file = "config/colors.toml"
+hash = "cd82566e4d0f5d769f8d19c2e09a1c24655507a888fe6de6ad05adfbe2d9a38e"
+
+[[files]]
+file = "config/continuity.json"
+hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
+
+[[files]]
+file = "config/darkkore.toml"
+hash = "a5a3f08d261fc30ecd3e6f501966eb76feec4583be4ff51d56253cad3cbf8f9d"
+
+[[files]]
+file = "config/entityculling.json"
+hash = "b8a87894038f8e3fed39687928119da41553ec72fafd3c6b98e39efb62ac6e7d"
+
+[[files]]
+file = "config/fabric/indigo-renderer.properties"
+hash = "c1d63fe84875ecec6262cb3f3488fae33a473dce71198c96d0d4b873683e3ec1"
+
+[[files]]
+file = "config/fabric/indigo-renderer.properties.txt"
+hash = "987d3d07416252a4a2e3d45969b4f124c8970cae39aa502a1729e15ab0d84816"
+
+[[files]]
+file = "config/fpsdisplay.json"
+hash = "093d8d0c6a8ac5e110032d325b543e7d8a955b61754b292af6a24977aef045c1"
+
+[[files]]
+file = "config/kronhud.json"
+hash = "c714adb11297ffa725af895f4741c0b97a1aa20ebb3023e2d0a71f5de0cdd384"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "76765e8e5ff8e927d80beb0739aababcf36e7babfd94262f2afece256cc5cd2e"
+
+[[files]]
+file = "config/lithium.properties.txt"
+hash = "76765e8e5ff8e927d80beb0739aababcf36e7babfd94262f2afece256cc5cd2e"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "f4bf49d809c0949d3fc6bfc55e32acc3575187804ee5f4c28b54d704074f7b58"
+
+[[files]]
+file = "config/modernfix-mixins.properties.txt"
+hash = "f4bf49d809c0949d3fc6bfc55e32acc3575187804ee5f4c28b54d704074f7b58"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "c0146f2884d0a9b847937d855f1d65fa1db32389f71099a4db1a7c8faae80dc0"
+
+[[files]]
+file = "config/mostructures-config-v5.json5"
+hash = "800145d81c3602c3209e60fe0f609a9bed814b3fd8f8254f6133603c2f84e39c"
+
+[[files]]
+file = "config/observable.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/roughlyenoughitems/changelog.txt"
+hash = "8d3828692497be68d54e98820db28df65ef79b28f16ec4ebeef0e0916588dd8e"
+
+[[files]]
+file = "config/roughlyenoughitems/config.json5"
+hash = "c3637095a26ab03fd9a741796f6a83e000d2030245fb86fa7ed3285b5a6cee3d"
+
+[[files]]
+file = "config/roughlyenoughitems/hints.json"
+hash = "795b2e5c6d469b0d37649ebd283182326f3163f6c3e7b93c05e7eaacceeb7d32"
+
+[[files]]
+file = "config/roughlyenoughitems/pinyin.properties"
+hash = "9c6e540cc8408a8a7edd7dc6b047a485114aef14732cc72adfbfeceb0d3f2d09"
+
+[[files]]
+file = "config/roughlyenoughitems/pinyin.properties.txt"
+hash = "e65f363ea213fa6014ef7700bebaae5f065a252ffa656269e43b2f4f2b4f8629"
+
+[[files]]
+file = "config/roughlyenoughitems/pinyin_double.properties"
+hash = "681c0424f02a6d579eb7cb42cadc57bfdc701f5c6e94217c5f2a8064e4acdfd3"
+
+[[files]]
+file = "config/roughlyenoughitems/pinyin_double.properties.txt"
+hash = "f62c2faacfa25cea4bfbd26116560d7e770ce44023a7918c16772ce29b942a2a"
+
+[[files]]
+file = "config/servercore.toml"
+hash = "d98c5c3a0e42cf5232e241dcffd9e5e39bd3a9bd07c3b8150e48f0706a55170f"
+
+[[files]]
+file = "config/sodium-mixins.properties"
+hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
+
+[[files]]
+file = "config/sodium-mixins.properties.txt"
+hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "52fa21d31fc7a3f71311430a38f783f63923ebe84fc19823b7a5c2a087a45cf7"
+
+[[files]]
+file = "config/xaerominimap-common.txt"
+hash = "1dcee38470c2939f7265891203775b7631c81822bf2506a451727fcaaf2cc4a2"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "d6722076b4fa24ef03d2065cbc0cfd6a99160efa5a0ad83238ccfb786df113ed"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "470590ab4ff5201b922f693cea93f374fbbd5d6617e607346b7c0c17e5607b32"
+
+[[files]]
+file = "config/xaeropatreon.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/xaeroworldmap-common.txt"
+hash = "103979a8e59e396f99fb8646c4f8a690c2d743ca3744a2eb8f663b3102b7498c"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "6028733f967d0d0f6a80dd236d3dcc7d2446912c719ab9a7d3f83d8624d9b92d"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "331a36d19fdf987cd5ca85755ec46a36b983eccbccb60ccfefa2765dc3d1f212"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "6064baf49dee806afd111ebf89bbad222a5f023e5fd2324b7b0820cd78553117"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "19276358b66db4b71d534bb7024a82dbf2bef87a95b604319c45fbfa82f5e24f"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "84070bb5bd5ac094b111c08dcafdfa71e885c4cb5187097615e7b5ad2b6ebac8"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "54fa3d88cf3630e694502184e1e2ed0be042dc9517593eb15d09dc7f174df1c8"
+metafile = true
+
+[[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "071e23b38170c950fbace7d88b049151f6661eb8cd96edc76332a6008abcc9eb"
+metafile = true
+
+[[files]]
+file = "mods/darkkore.pw.toml"
+hash = "d7177a53ae69c40df137d4fe5267a3c3db2d2e36a285e54072fdad6847d964ee"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "9b5248475175655d2bde24b9f0c945e8f73211f98ae89e9f068b579d35c3bb65"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "d6b5b39cfbe821c74aef77da9957b9eed5a76b9554aaed62a2c5f78905e27679"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "270130a47f7dea4a94b4a85eb5795a4a820c45fe1985cad6b8afaf33ee066899"
+metafile = true
+
+[[files]]
+file = "mods/faux-custom-entity-data.pw.toml"
+hash = "a0e9f484d9d48d62f240d837983386d80e53e517e59b8ac623e75268d8319505"
+metafile = true
+
+[[files]]
+file = "mods/fpsdisplay.pw.toml"
+hash = "2d4739068ca7d6a9bf858727ade49c47679f0ddaa1ca475ace769a4a5813dcfb"
+metafile = true
+
+[[files]]
+file = "mods/ingredient-extension-api.pw.toml"
+hash = "49ae038ac73483db0da9d34422656829397c5285cae5f82f1c86cab6cc93aef5"
+metafile = true
+
+[[files]]
+file = "mods/kronhud.pw.toml"
+hash = "c8808d1cd06503226250286a70066d07d59f6a76e41b13f73ee7cf8246be73a8"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "7f7b2eb3155ede755bd8097af1101867629bf9a11f7858faaa2cbf967b9d339a"
+metafile = true
+
+[[files]]
+file = "mods/let-me-despawn.pw.toml"
+hash = "4f4db9b1764ee925a73b31c4df7f7fbcbfc315dac57707d390458f2f801e97b8"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "98921d208121d9da3bfb0962812321b3c64608e1f857248c96273bfd09db0f86"
+metafile = true
+
+[[files]]
+file = "mods/loading-screen-tips.pw.toml"
+hash = "fcaf0a4681222fd3d7666f8348405dc653ebb01ac1d4b84d1fe4910abd943623"
+metafile = true
+
+[[files]]
+file = "mods/mixintrace.pw.toml"
+hash = "f8c57b83b826e6447a6a97f88f0fab03bb76caebc8272b74f3b890c6b5821d5d"
+metafile = true
+
+[[files]]
+file = "mods/mo-structures.pw.toml"
+hash = "716dd3f06d443acae1bd44639dbe1b3605459778e1290625f4d38eeb1aa972a5"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "c34bf1dc549c6efecccdd6a5e4a23292e4ae6131d6c682b76eb444726dff66e7"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "75e78971fcb2a8597a63ab3587badbb96c7d41b7aa66c3e302a8891a69da0330"
+metafile = true
+
+[[files]]
+file = "mods/observable-3.3.1.jar"
+hash = "e0d68e53d223666abed941e1d50ebbb8c1c1c7bcd12963dd3fa80a23429d1ea8"
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "3556b3c12188b0ce84f32615dd190a32891ae2a5dd9edf2b7ea9eaa00d674d18"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "ce035798839eb6b96058081aa48b12492a16fdf48504ba3392642d14a52670f1"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "7af312cd29abae2539e80acc055ab95808ffbb06069614d83b8daefce0a09e96"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "d816ebefd14031acd676b2e7dc2d77ea7e1370903ddac480865fb68540216032"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "073b111854d76685738c3a7b179f149dee2314f2589f52bc809bbbae77e928ed"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "5f94a92b2c7a59ec7c8ae2772e0b6344aa4d2cbc6de59835231d5fb15bfcfc6b"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "e78f2e549a9e79b984d84d861a98665a5e570ae2914949c17f1551ffdac6d342"
+
+[[files]]
+file = "profileImage/meowver.png"
+hash = "7326ea644e27ea5cd76eb1b81bdf1b37e033f6cc710c0707b9c75fbef13f1f4c"
+
+[[files]]
+file = "resourcepacks/the-graveyard-structure-addition.pw.toml"
+hash = "6fdd73a5113bae3ea999081554b242077468072b4d5534477d49a277af0c3866"
+metafile = true

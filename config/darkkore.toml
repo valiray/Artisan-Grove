@@ -1,0 +1,38 @@
+
+[general]
+	soundType = "normal"
+	changeVanillaButtons = false
+
+	[general.openGui]
+		blocking = true
+		ordered = false
+		exclusive = false
+		keys = ["J"]
+
+		[general.openGui.check]
+			inGame = true
+			inGui = false
+
+[gui]
+	scrollScale = 0.3
+
+	[gui.hoverColor]
+		color = "#FFFFFFFF"
+
+		[gui.hoverColor.chroma]
+			active = false
+			opacity = 1.0
+			size = 0.5
+			speed = 0.5
+			saturation = 1.0
+
+	[gui.screenBackgroundColor]
+		color = "#B0000000"
+
+		[gui.screenBackgroundColor.chroma]
+			active = false
+			opacity = 1.0
+			size = 0.5
+			speed = 0.5
+			saturation = 1.0
+

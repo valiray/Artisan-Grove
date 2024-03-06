@@ -1,0 +1,13 @@
+name = "FPS - Display"
+filename = "fpsdisplay-3.1.0+1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6f6dbd3e7bedd76b049aa20057bf3830787e4e62"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4704301
+project-id = 440228

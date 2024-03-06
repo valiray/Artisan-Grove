@@ -1,0 +1,13 @@
+name = "Artisan ' S Grove"
+author = "Ardy"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1bbe2c99c0f895f8e0860ec9ef5388de46c55dce73575c1bd6ceddc8d58b5b5e"
+
+[versions]
+fabric = "0.15.7"
+minecraft = "1.19.2"

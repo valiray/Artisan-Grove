@@ -1,0 +1,13 @@
+name = "KronHUD"
+filename = "KronHUD-1.19.2-2.2.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5a3cf99cc848b3aaaecddba438295949ac9c8597"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4060028
+project-id = 403941

@@ -1,0 +1,13 @@
+name = "The Graveyard - Custom Structure Addition"
+filename = "TheGraveyard-ExtendWithCustomStructures.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "30bd6cf7a81ee04d744994dc2966a762de811253"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4621458
+project-id = 883589
